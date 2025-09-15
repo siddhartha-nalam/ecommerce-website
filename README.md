@@ -9,10 +9,11 @@ Features:
 ## Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/ecommerce-website.git
+   git clone https://github.com/siddhartha-nalam/ecommerce-website.git
 
 2. Open index.html in your browser.
 
 ## Deployment
+
 
  - Upload to GitHub Pages or Netlify.
